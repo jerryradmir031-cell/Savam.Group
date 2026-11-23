@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 1024" width="1440" height="1024">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#DDD8D0"/>
+      <stop offset="100%" stop-color="#F1EEEA"/>
+    </linearGradient>
+    <linearGradient id="concrete" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#C9C3BC"/>
+      <stop offset="100%" stop-color="#A8A19A"/>
+    </linearGradient>
+    <linearGradient id="concreteDark" x1="0" y1="0" x2="0.5" y2="1">
+      <stop offset="0%" stop-color="#B5AEA6"/>
+      <stop offset="100%" stop-color="#8E8881"/>
+    </linearGradient>
+  </defs>
+  <rect width="1440" height="1024" fill="#FFFFFF"/>
+  <!-- Frame -->
+  <rect x="56" y="56" width="1328" height="912" fill="#FFFFFF" stroke="#E5E2DC"/>
+
+  <!-- Nav -->
+  <line x1="56" y1="124" x2="1384" y2="124" stroke="#EAE7E1"/>
+  <text x="104" y="97" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="500" letter-spacing="2" fill="#191919">ATELIER NORTH</text>
+  <text x="900" y="96" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#5F5D59">Проекты</text>
+  <text x="990" y="96" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#5F5D59">Бюро</text>
+  <text x="1055" y="96" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#5F5D59">Подход</text>
+  <text x="1135" y="96" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#5F5D59">Контакты</text>
+
+  <!-- Large editorial image area -->
+  <rect x="56" y="124" width="880" height="844" fill="url(#sky)"/>
+  <!-- Architectural building -->
+  <rect x="160" y="340" width="680" height="460" fill="url(#concrete)"/>
+  <!-- Building volumes -->
+  <rect x="160" y="340" width="340" height="460" fill="url(#concreteDark)"/>
+  <rect x="500" y="280" width="340" height="520" fill="url(#concrete)"/>
+  <!-- Windows -->
+  <rect x="210" y="390" width="90" height="140" fill="#E9E5DF" opacity="0.9"/>
+  <rect x="340" y="390" width="90" height="140" fill="#E9E5DF" opacity="0.75"/>
+  <rect x="210" y="580" width="90" height="140" fill="#E9E5DF" opacity="0.7"/>
+  <rect x="340" y="580" width="90" height="140" fill="#E9E5DF" opacity="0.85"/>
+  <rect x="560" y="330" width="100" height="180" fill="#ECE8E2" opacity="0.9"/>
+  <rect x="690" y="330" width="100" height="180" fill="#ECE8E2" opacity="0.75"/>
+  <rect x="560" y="560" width="100" height="160" fill="#ECE8E2" opacity="0.7"/>
+  <rect x="690" y="560" width="100" height="160" fill="#ECE8E2" opacity="0.85"/>
+  <!-- Ground line -->
+  <rect x="56" y="780" width="880" height="188" fill="#D2CBC2"/>
+  <line x1="56" y1="800" x2="936" y2="800" stroke="#BEB6AC" stroke-width="2"/>
+  <!-- Minimal trees -->
+  <rect x="120" y="700" width="6" height="100" fill="#8A837B"/>
+  <circle cx="123" cy="680" r="32" fill="#A9A39B" opacity="0.55"/>
+  <rect x="870" y="710" width="5" height="90" fill="#8A837B"/>
+  <circle cx="872" cy="692" r="28" fill="#A9A39B" opacity="0.5"/>
+
+  <!-- Right editorial text -->
+  <rect x="936" y="124" width="448" height="844" fill="#FFFFFF"/>
+  <text x="990" y="240" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#7A7670" letter-spacing="1.8">ИЗБРАННЫЙ ПРОЕКТ</text>
+  <text x="990" y="320" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="500" fill="#191919" letter-spacing="-1">Дом на</text>
+  <text x="990" y="382" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="500" fill="#191919" letter-spacing="-1">склоне</text>
+  <line x1="990" y1="430" x2="1050" y2="430" stroke="#191919" stroke-width="1"/>
+  <text x="990" y="480" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#5F5D59">Жилой дом в Алматинской области,</text>
+  <text x="990" y="506" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#5F5D59">где архитектура следует рельефу</text>
+  <text x="990" y="532" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#5F5D59">и направлению света.</text>
+
+  <text x="990" y="620" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#7A7670" letter-spacing="1.2">ЛОКАЦИЯ</text>
+  <text x="990" y="646" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#191919">Алматинская область</text>
+  <text x="990" y="700" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#7A7670" letter-spacing="1.2">ПЛОЩАДЬ</text>
+  <text x="990" y="726" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#191919">420 м²</text>
+  <text x="990" y="780" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#7A7670" letter-spacing="1.2">ГОД</text>
+  <text x="990" y="806" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#191919">2026</text>
+
+  <line x1="990" y1="860" x2="1320" y2="860" stroke="#E5E2DC"/>
+  <text x="990" y="900" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#191919">Смотреть проект</text>
+  <line x1="990" y1="908" x2="1104" y2="908" stroke="#191919"/>
+</svg>

@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 1024" width="1440" height="1024">
+  <defs>
+    <linearGradient id="room2" x1="0" y1="0" x2="0.3" y2="1">
+      <stop offset="0%" stop-color="#F0ECE6"/>
+      <stop offset="100%" stop-color="#E0D8CE"/>
+    </linearGradient>
+    <linearGradient id="fabric2" x1="0.2" y1="0" x2="0.8" y2="1">
+      <stop offset="0%" stop-color="#C4A485"/>
+      <stop offset="100%" stop-color="#927055"/>
+    </linearGradient>
+  </defs>
+  <rect width="1440" height="1024" fill="#FFFFFF"/>
+  <rect x="56" y="56" width="1328" height="912" fill="#FFFFFF" stroke="#E5E2DC"/>
+
+  <!-- Nav -->
+  <line x1="56" y1="128" x2="1384" y2="128" stroke="#EAE7E1"/>
+  <text x="104" y="99" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#191919" letter-spacing="0.5">NORD</text>
+  <text x="168" y="99" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" fill="#191919" letter-spacing="0.5">HOME</text>
+  <text x="760" y="98" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#5F5D59">Каталог</text>
+  <text x="850" y="98" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#5F5D59">Коллекции</text>
+  <text x="960" y="98" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#5F5D59">Шоурум</text>
+  <text x="1050" y="98" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#5F5D59">О бренде</text>
+  <rect x="1256" y="80" width="80" height="32" fill="none" stroke="#D9D5CF"/>
+  <text x="1296" y="101" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#191919">Корзина</text>
+
+  <!-- Breadcrumb -->
+  <text x="104" y="170" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#7A7670">Каталог / Гостиная / Кресла</text>
+
+  <!-- Product image -->
+  <rect x="104" y="200" width="680" height="620" fill="url(#room2)"/>
+  <!-- Interior setting -->
+  <rect x="104" y="620" width="680" height="200" fill="#CFC5B8"/>
+  <line x1="104" y1="620" x2="784" y2="620" stroke="#BEB3A5" stroke-width="2"/>
+  <rect x="560" y="280" width="160" height="220" fill="#F3EFE9" opacity="0.7"/>
+  <rect x="564" y="284" width="152" height="212" fill="none" stroke="#D4CCC0" stroke-width="5"/>
+  <!-- Chair large -->
+  <g>
+    <path d="M260 640 C250 540, 270 440, 330 410 C400 375, 510 375, 570 410 C630 440, 650 540, 640 640 Z" fill="url(#fabric2)"/>
+    <path d="M285 490 C300 435, 355 415, 450 415 C545 415, 600 435, 615 490 L600 530 C545 505, 355 505, 300 530 Z" fill="#B89578"/>
+    <rect x="275" y="620" width="350" height="50" rx="10" fill="url(#fabric2)"/>
+    <!-- Armrests -->
+    <path d="M270 520 C250 530, 245 570, 260 620 L285 615 C275 570, 280 540, 295 525 Z" fill="#B08D70"/>
+    <path d="M630 520 C650 530, 655 570, 640 620 L615 615 C625 570, 620 540, 605 525 Z" fill="#B08D70"/>
+    <!-- Legs -->
+    <rect x="305" y="668" width="16" height="72" rx="4" fill="#7A583D"/>
+    <rect x="579" y="668" width="16" height="72" rx="4" fill="#7A583D"/>
+    <rect x="320" y="690" width="260" height="10" rx="3" fill="#8B6547" opacity="0.35"/>
+    <!-- Cushion -->
+    <ellipse cx="450" cy="590" rx="75" ry="28" fill="#D2BCA5" opacity="0.55"/>
+  </g>
+
+  <!-- Thumbnails -->
+  <rect x="104" y="844" width="110" height="80" fill="#EBE6DF" stroke="#191919" stroke-width="1.5"/>
+  <rect x="134" y="860" width="50" height="48" rx="4" fill="#CDB89F"/>
+  <rect x="226" y="844" width="110" height="80" fill="#F5F4F1"/>
+  <rect x="256" y="862" width="50" height="44" rx="4" fill="#D4C4B3"/>
+  <rect x="348" y="844" width="110" height="80" fill="#F5F4F1"/>
+  <rect x="382" y="860" width="42" height="48" rx="2" fill="#CFC0AE"/>
+
+  <!-- Product info -->
+  <text x="844" y="230" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#7A7670" letter-spacing="1.2">NORD HOME</text>
+  <text x="844" y="290" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="500" fill="#191919" letter-spacing="-0.8">Кресло Luno</text>
+  <text x="844" y="336" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="400" fill="#191919">250 000 ₸</text>
+
+  <line x1="844" y1="370" x2="1336" y2="370" stroke="#E5E2DC"/>
+
+  <text x="844" y="410" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#7A7670" letter-spacing="1">МАТЕРИАЛ</text>
+  <text x="844" y="436" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#191919">Дуб, рогожка</text>
+
+  <text x="844" y="486" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#7A7670" letter-spacing="1">РАЗМЕР</text>
+  <text x="844" y="512" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#191919">82 × 76 × 74 см</text>
+
+  <text x="844" y="562" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#7A7670" letter-spacing="1">ОПИСАНИЕ</text>
+  <text x="844" y="592" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#5F5D59">Кресло с мягкой посадкой и опорой</text>
+  <text x="844" y="618" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#5F5D59">для спины. Каркас из массива дуба,</text>
+  <text x="844" y="644" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#5F5D59">обивка из износостойкой рогожки.</text>
+
+  <line x1="844" y1="690" x2="1336" y2="690" stroke="#E5E2DC"/>
+
+  <rect x="844" y="726" width="240" height="52" fill="#191919"/>
+  <text x="964" y="758" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#FFFFFF">Добавить в корзину</text>
+  <rect x="1100" y="726" width="140" height="52" fill="none" stroke="#D9D5CF"/>
+  <text x="1170" y="758" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#191919">В шоурум</text>
+
+  <text x="844" y="830" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#5F5D59">Доставка по Казахстану · Оплата при получении</text>
+</svg>

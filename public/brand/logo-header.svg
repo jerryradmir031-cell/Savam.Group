@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 112" width="360" height="112" role="img" aria-label="SAVAM GROUP">
+  <rect width="360" height="112" fill="white"/>
+  <ellipse cx="180" cy="56" rx="170" ry="48" fill="none" stroke="#191919" stroke-width="6"/>
+  <text x="180" y="52" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="700" letter-spacing="1" fill="#191919">SAVAM</text>
+  <text x="180" y="79" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" letter-spacing="3" fill="#191919">GROUP</text>
+</svg>

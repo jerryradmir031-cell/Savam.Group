@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" fill="#FFFFFF"/>
+  <ellipse cx="32" cy="32" rx="28" ry="18" fill="none" stroke="#191919" stroke-width="3"/>
+  <text x="32" y="31" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#191919">SAVAM</text>
+  <text x="32" y="42" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="700" letter-spacing="1" fill="#191919">GROUP</text>
+</svg>
